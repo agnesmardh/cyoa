@@ -4,3 +4,8 @@
 // Made by Agnes Mårdh and Karl Wikström
 // for everyone to enjoy!
 //
+
+// Main entry to the app
+var main = function() {
+
+}
