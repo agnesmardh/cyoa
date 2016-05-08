@@ -8,4 +8,6 @@
 // Main entry to the app
 var main = function() {
 
-}
+};
+
+$(document).ready(main);
