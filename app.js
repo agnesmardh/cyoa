@@ -10,4 +10,6 @@ var main = function() {
 
 };
 
+
+// JQuery connection to 'index.html'
 $(document).ready(main);
